@@ -5,7 +5,7 @@
     "slug": "i-will-systems",
     "status": "up",
     "uptime": "100.00",
-    "time": 727
+    "time": 735
   },
   {
     "name": "LiveSeeYou",
@@ -13,23 +13,23 @@
     "slug": "live-see-you",
     "status": "up",
     "uptime": "100.00",
-    "time": 1064
+    "time": 1127
   },
   {
-    "name": "�������ķ",
+    "name": "산업용직캠",
     "url": "https://live.uplus.co.kr",
-    "slug": "k",
+    "slug": "",
     "status": "up",
     "uptime": "100.00",
-    "time": 986
+    "time": 1003
   },
   {
-    "name": "�������ķ(dev)",
+    "name": "산업용직캠(dev)",
     "url": "https://devlive.uplus.co.kr:8080",
-    "slug": "k-dev",
+    "slug": "dev",
     "status": "up",
     "uptime": "100.00",
-    "time": 856
+    "time": 1028
   },
   {
     "name": "Broken Site",
@@ -44,7 +44,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "99.99",
+    "uptime": "100.00",
     "time": 0
   }
 ]
