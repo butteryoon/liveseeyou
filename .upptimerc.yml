@@ -8,9 +8,9 @@ sites:
     url: http://www.iwsys.co.kr
   - name: LiveSeeYou
     url: https://www.liveseeyou.com
-  - name: »ê¾÷¿ëÁ÷Ä·
+  - name: ì‚°ì—…ìš©ì§ìº 
     url: https://live.uplus.co.kr
-  - name: »ê¾÷¿ëÁ÷Ä·(dev)
+  - name: ì‚°ì—…ìš©ì§ìº (dev)
     url: https://devlive.uplus.co.kr:8080
   - name: Broken Site
     url: https://thissitedoesnotexist.com
