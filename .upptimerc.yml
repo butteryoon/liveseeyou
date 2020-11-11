@@ -8,9 +8,9 @@ sites:
     url: http://www.iwsys.co.kr
   - name: LiveSeeYou
     url: https://www.liveseeyou.com
-  - name: 산업용직캠
+  - name: LiveStream
     url: https://live.uplus.co.kr
-  - name: 산업용직캠(dev)
+  - name: LiveStream(dev)
     url: https://devlive.uplus.co.kr:8080
   - name: Broken Site
     url: https://thissitedoesnotexist.com
