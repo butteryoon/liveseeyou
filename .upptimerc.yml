@@ -4,16 +4,14 @@ repo: liveseeyou # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: iWillSystems
+    url: http://www.iwsys.co.kr
   - name: LiveSeeYou
     url: https://www.liveseeyou.com
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Internet Archive
-    url: https://archive.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: »ê¾÷¿ëÁ÷Ä·
+    url: https://live.uplus.co.kr
+  - name: »ê¾÷¿ëÁ÷Ä·(dev)
+    url: https://devlive.uplus.co.kr:8080
   - name: Broken Site
     url: https://thissitedoesnotexist.com
   - name: Secret Site
