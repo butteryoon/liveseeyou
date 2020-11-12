@@ -12,10 +12,6 @@ sites:
     url: https://live.uplus.co.kr
   - name: LiveStream(dev)
     url: https://devlive.uplus.co.kr:8080
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
