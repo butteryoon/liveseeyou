@@ -5,7 +5,7 @@
     "slug": "i-will-systems",
     "status": "up",
     "uptime": "100.00",
-    "time": 856
+    "time": 895
   },
   {
     "name": "LiveSeeYou",
@@ -13,7 +13,7 @@
     "slug": "live-see-you",
     "status": "up",
     "uptime": "100.00",
-    "time": 951
+    "time": 940
   },
   {
     "name": "LiveStream",
@@ -21,7 +21,7 @@
     "slug": "live-stream",
     "status": "up",
     "uptime": "100.00",
-    "time": 1012
+    "time": 949
   },
   {
     "name": "LiveStream(dev)",
@@ -29,22 +29,6 @@
     "slug": "live-stream-dev",
     "status": "up",
     "uptime": "100.00",
-    "time": 1121
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 0
+    "time": 1143
   }
 ]
