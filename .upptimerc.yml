@@ -16,6 +16,10 @@ sites:
     url: http://iws.iptime.org:8080
   - name: LiveStreamLGD(IWS)
     url: https://iws.iptime.org:9700
+  - name: butteryoon.tistory
+    url: https://butteryoon.tistory.com
+  - name: butteryoon.github
+    url: https://butteryoon.github.io
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
