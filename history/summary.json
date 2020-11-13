@@ -5,7 +5,7 @@
     "slug": "i-will-systems",
     "status": "up",
     "uptime": "100.00",
-    "time": 866
+    "time": 846
   },
   {
     "name": "LiveSeeYou",
@@ -13,7 +13,7 @@
     "slug": "live-see-you",
     "status": "up",
     "uptime": "100.00",
-    "time": 1006
+    "time": 993
   },
   {
     "name": "LiveStream",
@@ -21,7 +21,7 @@
     "slug": "live-stream",
     "status": "up",
     "uptime": "100.00",
-    "time": 973
+    "time": 983
   },
   {
     "name": "LiveStream(dev)",
@@ -29,6 +29,22 @@
     "slug": "live-stream-dev",
     "status": "up",
     "uptime": "100.00",
-    "time": 1068
+    "time": 1057
+  },
+  {
+    "name": "LiveStreamK(IWS)",
+    "url": "http://iws.iptime.org:8080",
+    "slug": "live-stream-k-iws",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1024
+  },
+  {
+    "name": "LiveStreamLGD(IWS)",
+    "url": "https://iws.iptime.org:9700",
+    "slug": "live-stream-lgd-iws",
+    "status": "down",
+    "uptime": "66.63",
+    "time": 0
   }
 ]
