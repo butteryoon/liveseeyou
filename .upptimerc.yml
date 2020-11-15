@@ -14,7 +14,7 @@ sites:
     url: https://devlive.uplus.co.kr:8080
   - name: LiveStreamK(IWS)
     url: http://iws.iptime.org:8080
-  - name: LiveStreamLGD(IWS)
+  - name: LiveStreamL(IWS)
     url: https://iws.iptime.org:9700
   - name: butteryoon.tistory
     url: https://butteryoon.tistory.com
@@ -27,12 +27,12 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /liveseeyou
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: LiveSeeyou Upptime
+  name: LiveSeeyou 
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
     - title: Status
-      href: /
+      href: /liveseeyou
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
