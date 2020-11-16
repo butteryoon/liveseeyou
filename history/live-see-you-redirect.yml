@@ -1,7 +1,7 @@
 - url: http://www.liveseeyou.com
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-11-16T10:47:25.217Z
+- status: up
+- code: 200
+- responseTime: 1164
+- lastUpdated: 2020-11-16T10:52:39.026Z
 - startTime: 2020-11-16T03:12:36.151Z
 - generator: Upptime <https://github.com/upptime/upptime>
