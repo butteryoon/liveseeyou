@@ -1,7 +1,7 @@
 - url: https://iws.iptime.org:3446
-- status: up
+- status: down
 - code: 200
-- responseTime: 790
-- lastUpdated: 2020-11-18T23:12:40.831Z
+- responseTime: 664
+- lastUpdated: 2020-11-19T06:52:30.979Z
 - startTime: 2020-11-16T03:12:44.127Z
 - generator: Upptime <https://github.com/upptime/upptime>
