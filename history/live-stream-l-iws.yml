@@ -1,7 +1,7 @@
 - url: https://iws.iptime.org:9700
-- status: up
+- status: down
 - code: 200
-- responseTime: 1376
-- lastUpdated: 2020-11-18T23:12:39.748Z
+- responseTime: 1173
+- lastUpdated: 2020-11-19T06:52:28.571Z
 - startTime: 2020-11-15T13:21:36.687Z
 - generator: Upptime <https://github.com/upptime/upptime>
