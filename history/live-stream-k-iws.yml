@@ -1,7 +1,7 @@
 - url: http://iws.iptime.org:8080
 - status: up
 - code: 200
-- responseTime: 1317
-- lastUpdated: 2020-11-19T06:57:40.247Z
+- responseTime: 1023
+- lastUpdated: 2020-11-19T23:11:15.646Z
 - startTime: 2020-11-13T03:21:22.290Z
 - generator: Upptime <https://github.com/upptime/upptime>
