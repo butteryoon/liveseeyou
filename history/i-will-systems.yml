@@ -1,7 +1,7 @@
 - url: http://www.iwsys.co.kr
-- status: down
+- status: up
 - code: 200
-- responseTime: 1134
-- lastUpdated: 2020-11-19T06:52:01.304Z
+- responseTime: 1017
+- lastUpdated: 2020-11-19T06:57:28.219Z
 - startTime: 2020-11-11T09:04:17.076Z
 - generator: Upptime <https://github.com/upptime/upptime>
