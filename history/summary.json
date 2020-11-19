@@ -3,33 +3,33 @@
     "name": "butteryoon.github",
     "url": "https://butteryoon.github.io",
     "slug": "butteryoon-github",
-    "status": "down",
-    "uptime": "99.99",
+    "status": "up",
+    "uptime": "100.00",
     "time": 112
   },
   {
     "name": "butteryoon.tistory",
     "url": "https://butteryoon.tistory.com",
     "slug": "butteryoon-tistory",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 1221
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1215
   },
   {
     "name": "iWillSystems",
     "url": "http://www.iwsys.co.kr",
     "slug": "i-will-systems",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 948
+    "time": 952
   },
   {
     "name": "LiveSeeYou",
     "url": "https://www.liveseeyou.com",
     "slug": "live-see-you",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 1085
+    "time": 1090
   },
   {
     "name": "LiveSeeYou-redirect",
@@ -43,7 +43,7 @@
     "name": "LiveStream",
     "url": "https://live.uplus.co.kr",
     "slug": "live-stream",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
     "time": 1159
   },
@@ -51,32 +51,32 @@
     "name": "LiveStream(dev)",
     "url": "https://devlive.uplus.co.kr:8080",
     "slug": "live-stream-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 1204
+    "time": 1218
   },
   {
     "name": "LiveStreamK(IWS)",
     "url": "http://iws.iptime.org:8080",
     "slug": "live-stream-k-iws",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 1178
+    "time": 1189
   },
   {
     "name": "LiveStreamL(IWS)",
     "url": "https://iws.iptime.org:9700",
     "slug": "live-stream-l-iws",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 999
+    "time": 1039
   },
   {
     "name": "LiveStreamLSSO(IWS)",
     "url": "https://iws.iptime.org:3446",
     "slug": "live-stream-lsso-iws",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 763
+    "time": 768
   }
 ]
