@@ -1,7 +1,7 @@
 - url: https://live.uplus.co.kr
-- status: up
+- status: down
 - code: 200
-- responseTime: 1236
-- lastUpdated: 2020-11-18T23:12:34.885Z
+- responseTime: 1108
+- lastUpdated: 2020-11-19T06:52:17.606Z
 - startTime: 2020-11-11T09:45:37.706Z
 - generator: Upptime <https://github.com/upptime/upptime>
