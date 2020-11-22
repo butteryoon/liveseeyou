@@ -28,16 +28,16 @@
     "url": "https://www.liveseeyou.com",
     "slug": "live-see-you",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "time": 1102
   },
   {
     "name": "LiveSeeYou-redirect",
     "url": "http://www.liveseeyou.com",
     "slug": "live-see-you-redirect",
-    "status": "up",
-    "uptime": "99.76%",
-    "time": 1567
+    "status": "down",
+    "uptime": "99.78%",
+    "time": 1529
   },
   {
     "name": "LiveStream",
@@ -68,7 +68,7 @@
     "url": "https://iws.iptime.org:9700",
     "slug": "live-stream-l-iws",
     "status": "up",
-    "uptime": "91.52%",
+    "uptime": "92.13%",
     "time": 1077
   },
   {
