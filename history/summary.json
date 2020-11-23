@@ -36,7 +36,7 @@
     "url": "http://www.liveseeyou.com",
     "slug": "live-see-you-redirect",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "time": 1836
   },
   {
@@ -51,9 +51,9 @@
     "name": "LiveStream(dev)",
     "url": "https://devlive.uplus.co.kr:8080",
     "slug": "live-stream-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 1159
+    "time": 1110
   },
   {
     "name": "LiveStreamK(IWS)",
@@ -68,7 +68,7 @@
     "url": "https://iws.iptime.org:9700",
     "slug": "live-stream-l-iws",
     "status": "up",
-    "uptime": "92.29%",
+    "uptime": "92.48%",
     "time": 1084
   },
   {
