@@ -51,9 +51,9 @@
     "name": "LiveStream(dev)",
     "url": "https://devlive.uplus.co.kr:8080",
     "slug": "live-stream-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 1110
+    "time": 1118
   },
   {
     "name": "LiveStreamK(IWS)",
@@ -68,7 +68,7 @@
     "url": "https://iws.iptime.org:9700",
     "slug": "live-stream-l-iws",
     "status": "up",
-    "uptime": "92.48%",
+    "uptime": "92.49%",
     "time": 1084
   },
   {
