@@ -5,7 +5,7 @@
     "slug": "butteryoon-github",
     "status": "up",
     "uptime": "100.00%",
-    "time": 132
+    "time": 126
   },
   {
     "name": "butteryoon.tistory",
@@ -13,7 +13,7 @@
     "slug": "butteryoon-tistory",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1239
+    "time": 1270
   },
   {
     "name": "iWillSystems",
@@ -21,7 +21,7 @@
     "slug": "i-will-systems",
     "status": "up",
     "uptime": "100.00%",
-    "time": 947
+    "time": 944
   },
   {
     "name": "LiveSeeYou",
@@ -36,8 +36,8 @@
     "url": "http://www.liveseeyou.com",
     "slug": "live-see-you-redirect",
     "status": "up",
-    "uptime": "99.68%",
-    "time": 1617
+    "uptime": "99.69%",
+    "time": 1616
   },
   {
     "name": "LiveStream",
@@ -45,7 +45,7 @@
     "slug": "live-stream",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1185
+    "time": 1194
   },
   {
     "name": "LiveStream(dev)",
@@ -53,7 +53,7 @@
     "slug": "live-stream-dev",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1074
+    "time": 1081
   },
   {
     "name": "LiveStreamK(IWS)",
@@ -61,15 +61,15 @@
     "slug": "live-stream-k-iws",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1176
+    "time": 1181
   },
   {
     "name": "LiveStreamL(IWS)",
     "url": "https://iws.iptime.org:9700",
     "slug": "live-stream-l-iws",
     "status": "up",
-    "uptime": "93.75%",
-    "time": 1105
+    "uptime": "93.91%",
+    "time": 1120
   },
   {
     "name": "LiveStreamLSSO(IWS)",
@@ -77,6 +77,6 @@
     "slug": "live-stream-lsso-iws",
     "status": "up",
     "uptime": "100.00%",
-    "time": 740
+    "time": 742
   }
 ]
