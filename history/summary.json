@@ -35,9 +35,9 @@
     "name": "LiveSeeYou-redirect",
     "url": "http://www.liveseeyou.com",
     "slug": "live-see-you-redirect",
-    "status": "up",
-    "uptime": "99.55%",
-    "time": 1834
+    "status": "down",
+    "uptime": "99.56%",
+    "time": 1813
   },
   {
     "name": "LiveStream",
@@ -68,7 +68,7 @@
     "url": "https://iws.iptime.org:9700",
     "slug": "live-stream-l-iws",
     "status": "up",
-    "uptime": "95.72%",
+    "uptime": "95.78%",
     "time": 1161
   },
   {
