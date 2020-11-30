@@ -27,17 +27,17 @@
     "name": "LiveSeeYou",
     "url": "https://www.liveseeyou.com",
     "slug": "live-see-you",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "time": 1087
+    "time": 1086
   },
   {
     "name": "LiveSeeYou-redirect",
     "url": "http://www.liveseeyou.com",
     "slug": "live-see-you-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "99.60%",
-    "time": 1691
+    "time": 1685
   },
   {
     "name": "LiveStream",
