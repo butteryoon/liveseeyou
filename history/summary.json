@@ -35,9 +35,9 @@
     "name": "LiveSeeYou-redirect",
     "url": "http://www.liveseeyou.com",
     "slug": "live-see-you-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "99.53%",
-    "time": 1663
+    "time": 1678
   },
   {
     "name": "LiveStream",
