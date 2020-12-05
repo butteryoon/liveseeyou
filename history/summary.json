@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 127,
-    "timeWeek": 126,
-    "timeMonth": 126,
-    "timeYear": 126
+    "time": 128,
+    "timeDay": 161,
+    "timeWeek": 141,
+    "timeMonth": 128,
+    "timeYear": 128
   },
   {
     "name": "butteryoon.tistory",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1276,
-    "timeDay": 1320,
-    "timeWeek": 1301,
-    "timeMonth": 1276,
-    "timeYear": 1276
+    "time": 1281,
+    "timeDay": 1415,
+    "timeWeek": 1293,
+    "timeMonth": 1281,
+    "timeYear": 1281
   },
   {
     "name": "iWillSystems",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 963,
-    "timeDay": 1022,
-    "timeWeek": 1004,
-    "timeMonth": 963,
-    "timeYear": 963
+    "time": 961,
+    "timeDay": 894,
+    "timeWeek": 1011,
+    "timeMonth": 961,
+    "timeYear": 961
   },
   {
     "name": "LiveSeeYou",
@@ -57,27 +57,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 1200,
-    "timeDay": 1226,
-    "timeWeek": 1297,
-    "timeMonth": 1200,
-    "timeYear": 1200
+    "time": 1201,
+    "timeDay": 1264,
+    "timeWeek": 1326,
+    "timeMonth": 1201,
+    "timeYear": 1201
   },
   {
     "name": "LiveSeeYou-redirect",
     "url": "http://www.liveseeyou.com",
     "slug": "live-see-you-redirect",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
-    "time": 2899,
-    "timeDay": 4751,
-    "timeWeek": 3010,
-    "timeMonth": 2899,
-    "timeYear": 2899
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 2884,
+    "timeDay": 1444,
+    "timeWeek": 2463,
+    "timeMonth": 2884,
+    "timeYear": 2884
   },
   {
     "name": "LiveStream",
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1244,
-    "timeDay": 1393,
-    "timeWeek": 1375,
-    "timeMonth": 1244,
-    "timeYear": 1244
+    "time": 1246,
+    "timeDay": 1291,
+    "timeWeek": 1363,
+    "timeMonth": 1246,
+    "timeYear": 1246
   },
   {
     "name": "LiveStream(dev)",
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1262,
-    "timeDay": 1364,
+    "time": 1266,
+    "timeDay": 1415,
     "timeWeek": 1329,
-    "timeMonth": 1262,
-    "timeYear": 1262
+    "timeMonth": 1266,
+    "timeYear": 1266
   },
   {
     "name": "LiveStreamK(IWS)",
@@ -121,27 +121,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1183,
-    "timeDay": 1152,
-    "timeWeek": 1171,
-    "timeMonth": 1183,
-    "timeYear": 1183
+    "time": 1187,
+    "timeDay": 1324,
+    "timeWeek": 1191,
+    "timeMonth": 1187,
+    "timeYear": 1187
   },
   {
     "name": "LiveStreamL(IWS)",
     "url": "https://iws.iptime.org:9700",
     "slug": "live-stream-l-iws",
     "status": "up",
-    "uptime": "97.08%",
+    "uptime": "97.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.08%",
-    "uptimeYear": "97.08%",
-    "time": 1303,
-    "timeDay": 1336,
-    "timeWeek": 1315,
-    "timeMonth": 1303,
-    "timeYear": 1303
+    "uptimeMonth": "97.18%",
+    "uptimeYear": "97.18%",
+    "time": 1306,
+    "timeDay": 1362,
+    "timeWeek": 1325,
+    "timeMonth": 1306,
+    "timeYear": 1306
   },
   {
     "name": "LiveStreamLSSO(IWS)",
@@ -153,10 +153,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 745,
-    "timeDay": 774,
-    "timeWeek": 755,
-    "timeMonth": 745,
-    "timeYear": 745
+    "time": 747,
+    "timeDay": 788,
+    "timeWeek": 760,
+    "timeMonth": 747,
+    "timeYear": 747
   }
 ]
