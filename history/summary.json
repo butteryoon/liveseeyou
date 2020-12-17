@@ -131,19 +131,19 @@
     "url": "https://devlive.uplus.co.kr:8080",
     "icon": "https://favicons.githubusercontent.com/devlive.uplus.co.kr",
     "slug": "live-stream-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 1265,
-    "timeDay": 1383,
-    "timeWeek": 1289,
-    "timeMonth": 1294,
+    "timeDay": 1309,
+    "timeWeek": 1282,
+    "timeMonth": 1292,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2020-12-17": 0
+      "2020-12-17": 20
     }
   },
   {
