@@ -81,12 +81,12 @@
     "status": "up",
     "uptime": "98.67%",
     "uptimeDay": "98.75%",
-    "uptimeWeek": "97.29%",
+    "uptimeWeek": "97.33%",
     "uptimeMonth": "98.65%",
     "uptimeYear": "98.67%",
     "time": 3422,
     "timeDay": 5076,
-    "timeWeek": 4436,
+    "timeWeek": 4521,
     "timeMonth": 3488,
     "timeYear": 3422,
     "dailyMinutesDown": {
@@ -131,9 +131,9 @@
     "url": "https://devlive.uplus.co.kr:8080",
     "icon": "https://favicons.githubusercontent.com/devlive.uplus.co.kr",
     "slug": "live-stream-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -142,7 +142,9 @@
     "timeWeek": 1289,
     "timeMonth": 1294,
     "timeYear": 1265,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-17": 0
+    }
   },
   {
     "name": "LiveStreamK(IWS)",
