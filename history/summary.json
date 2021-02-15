@@ -78,18 +78,19 @@
     "url": "http://www.liveseeyou.com",
     "icon": "https://favicons.githubusercontent.com/www.liveseeyou.com",
     "slug": "live-see-you-redirect",
-    "status": "up",
-    "uptime": "97.46%",
-    "uptimeDay": "96.27%",
-    "uptimeWeek": "98.48%",
+    "status": "down",
+    "uptime": "97.48%",
+    "uptimeDay": "96.25%",
+    "uptimeWeek": "98.47%",
     "uptimeMonth": "97.10%",
-    "uptimeYear": "97.46%",
+    "uptimeYear": "97.48%",
     "time": 3869,
     "timeDay": 6465,
     "timeWeek": 4552,
     "timeMonth": 4205,
     "timeYear": 3869,
     "dailyMinutesDown": {
+      "2021-02-15": 0,
       "2021-02-14": 53,
       "2021-02-13": 22,
       "2021-02-12": 32,
@@ -144,7 +145,7 @@
       "2020-12-12": 35,
       "2020-12-11": 62,
       "2020-12-10": 110,
-      "2020-12-09": 43
+      "2020-12-09": 26
     }
   },
   {
