@@ -8,22 +8,18 @@ sites:
     url: https://butteryoon.github.io
   - name: butteryoon.tistory
     url: https://butteryoon.tistory.com
+  - name: awsome.oci
+    url: https://awsome.duckdns.org:58803
   - name: iWillSystems
     url: http://www.iwsys.co.kr
   - name: LiveSeeYou
     url: https://www.liveseeyou.com
-  - name: LiveSeeYou-redirect
-    url: http://www.liveseeyou.com
   - name: LiveStream
     url: https://live.uplus.co.kr
   - name: LiveStream(dev)
     url: https://devlive.uplus.co.kr:8080
   - name: LiveStreamK(IWS)
     url: http://iws.iptime.org:8080
-  - name: LiveStreamL(IWS)
-    url: https://iws.iptime.org:9700
-  - name: LiveStreamLSSO(IWS)
-    url: https://iws.iptime.org:3446
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
