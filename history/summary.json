@@ -22,18 +22,20 @@
     "url": "https://butteryoon.tistory.com",
     "icon": "https://favicons.githubusercontent.com/butteryoon.tistory.com",
     "slug": "butteryoon-tistory",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1460,
     "timeDay": 2143,
     "timeWeek": 1929,
     "timeMonth": 1717,
     "timeYear": 1460,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-05": 2
+    }
   },
   {
     "name": "awsome.oci",
