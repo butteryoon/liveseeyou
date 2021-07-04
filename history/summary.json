@@ -84,9 +84,9 @@
     "url": "https://www.liveseeyou.com",
     "icon": "https://favicons.githubusercontent.com/www.liveseeyou.com",
     "slug": "live-see-you",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -96,6 +96,7 @@
     "timeMonth": 1250,
     "timeYear": 1270,
     "dailyMinutesDown": {
+      "2021-07-04": 0,
       "2021-05-07": 107,
       "2020-11-11": 17
     }
