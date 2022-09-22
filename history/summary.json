@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 69,
-    "timeDay": 125,
-    "timeWeek": 77,
-    "timeMonth": 77,
+    "timeDay": 142,
+    "timeWeek": 81,
+    "timeMonth": 79,
     "timeYear": 69,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1813,
-    "timeDay": 1962,
-    "timeWeek": 1837,
-    "timeMonth": 1807,
-    "timeYear": 1811,
+    "time": 1812,
+    "timeDay": 1398,
+    "timeWeek": 1807,
+    "timeMonth": 1801,
+    "timeYear": 1810,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://favicons.githubusercontent.com/awsome.duckdns.org",
     "slug": "awsome-oci",
     "status": "down",
-    "uptime": "9.69%",
+    "uptime": "9.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 735,
+    "time": 738,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-21": 162,
+      "2022-09-22": 150,
+      "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
@@ -415,8 +416,7 @@
       "2021-09-26": 1440,
       "2021-09-25": 1440,
       "2021-09-24": 1440,
-      "2021-09-23": 1440,
-      "2021-09-22": 1440
+      "2021-09-23": 1440
     }
   },
   {
@@ -430,11 +430,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 919,
-    "timeDay": 757,
-    "timeWeek": 842,
-    "timeMonth": 872,
-    "timeYear": 919,
+    "time": 918,
+    "timeDay": 708,
+    "timeWeek": 826,
+    "timeMonth": 864,
+    "timeYear": 918,
     "dailyMinutesDown": {
       "2022-07-01": 56,
       "2022-05-18": 153,
@@ -448,18 +448,19 @@
     "icon": "https://favicons.githubusercontent.com/www.liveseeyou.com",
     "slug": "live-see-you",
     "status": "down",
-    "uptime": "43.89%",
+    "uptime": "43.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1226,
+    "time": 1225,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-21": 162,
+      "2022-09-22": 150,
+      "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
@@ -822,8 +823,7 @@
       "2021-09-26": 1440,
       "2021-09-25": 1440,
       "2021-09-24": 1440,
-      "2021-09-23": 1440,
-      "2021-09-22": 1440
+      "2021-09-23": 1440
     }
   },
   {
@@ -838,9 +838,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1189,
-    "timeDay": 1033,
-    "timeWeek": 1152,
-    "timeMonth": 1173,
+    "timeDay": 975,
+    "timeWeek": 1125,
+    "timeMonth": 1169,
     "timeYear": 1186,
     "dailyMinutesDown": {
       "2021-12-25": 18,
@@ -859,10 +859,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 2407,
-    "timeDay": 1077,
-    "timeWeek": 1168,
-    "timeMonth": 1156,
-    "timeYear": 2222,
+    "timeDay": 943,
+    "timeWeek": 1142,
+    "timeMonth": 1150,
+    "timeYear": 2193,
     "dailyMinutesDown": {
       "2022-07-24": 26,
       "2022-07-20": 44,
@@ -884,7 +884,7 @@
     "icon": "https://favicons.githubusercontent.com/iws.iptime.org",
     "slug": "live-stream-k-iws",
     "status": "down",
-    "uptime": "48.23%",
+    "uptime": "48.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -895,7 +895,8 @@
     "timeMonth": 0,
     "timeYear": 1295,
     "dailyMinutesDown": {
-      "2022-09-21": 162,
+      "2022-09-22": 150,
+      "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
@@ -1238,8 +1239,7 @@
       "2021-09-26": 1440,
       "2021-09-25": 1440,
       "2021-09-24": 1440,
-      "2021-09-23": 1440,
-      "2021-09-22": 1440
+      "2021-09-23": 1440
     }
   }
 ]
