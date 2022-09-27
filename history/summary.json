@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 69,
-    "timeDay": 131,
-    "timeWeek": 91,
-    "timeMonth": 82,
-    "timeYear": 70,
+    "time": 70,
+    "timeDay": 370,
+    "timeWeek": 137,
+    "timeMonth": 93,
+    "timeYear": 71,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1811,
-    "timeDay": 1576,
-    "timeWeek": 1597,
-    "timeMonth": 1769,
-    "timeYear": 1809,
+    "timeDay": 1560,
+    "timeWeek": 1571,
+    "timeMonth": 1757,
+    "timeYear": 1808,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://favicons.githubusercontent.com/awsome.duckdns.org",
     "slug": "awsome-oci",
     "status": "down",
-    "uptime": "9.59%",
+    "uptime": "9.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 750,
+    "time": 752,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-26": 160,
+      "2022-09-27": 148,
+      "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
@@ -415,8 +416,7 @@
       "2021-10-01": 1440,
       "2021-09-30": 1440,
       "2021-09-29": 1440,
-      "2021-09-28": 1440,
-      "2021-09-27": 1440
+      "2021-09-28": 1440
     }
   },
   {
@@ -431,9 +431,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 917,
-    "timeDay": 758,
-    "timeWeek": 772,
-    "timeMonth": 853,
+    "timeDay": 816,
+    "timeWeek": 760,
+    "timeMonth": 850,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2022-07-01": 56,
@@ -447,18 +447,19 @@
     "icon": "https://favicons.githubusercontent.com/www.liveseeyou.com",
     "slug": "live-see-you",
     "status": "down",
-    "uptime": "43.57%",
+    "uptime": "43.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1225,
+    "time": 1226,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-26": 160,
+      "2022-09-27": 148,
+      "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
@@ -821,8 +822,7 @@
       "2021-10-01": 1440,
       "2021-09-30": 1440,
       "2021-09-29": 1440,
-      "2021-09-28": 1440,
-      "2021-09-27": 1440
+      "2021-09-28": 1440
     }
   },
   {
@@ -837,10 +837,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1189,
-    "timeDay": 1119,
-    "timeWeek": 1043,
-    "timeMonth": 1146,
-    "timeYear": 1184,
+    "timeDay": 1047,
+    "timeWeek": 1041,
+    "timeMonth": 1140,
+    "timeYear": 1183,
     "dailyMinutesDown": {
       "2021-12-25": 18,
       "2021-12-23": 19
@@ -856,12 +856,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 2403,
-    "timeDay": 1085,
-    "timeWeek": 1073,
-    "timeMonth": 1134,
-    "timeYear": 2148,
+    "timeDay": 755,
+    "timeWeek": 1000,
+    "timeMonth": 1117,
+    "timeYear": 2131,
     "dailyMinutesDown": {
       "2022-07-24": 26,
       "2022-07-20": 44,
@@ -873,8 +873,7 @@
       "2021-12-27": 43,
       "2021-12-25": 17,
       "2021-12-22": 19,
-      "2021-11-16": 17,
-      "2021-09-27": 59
+      "2021-11-16": 17
     }
   },
   {
@@ -883,18 +882,19 @@
     "icon": "https://favicons.githubusercontent.com/iws.iptime.org",
     "slug": "live-stream-k-iws",
     "status": "down",
-    "uptime": "47.87%",
+    "uptime": "47.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "6.54%",
-    "time": 1293,
+    "time": 1294,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1295,
     "dailyMinutesDown": {
-      "2022-09-26": 160,
+      "2022-09-27": 148,
+      "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
@@ -1237,8 +1237,7 @@
       "2021-10-20": 22,
       "2021-10-08": 106,
       "2021-10-07": 185,
-      "2021-09-28": 174,
-      "2021-09-27": 1440
+      "2021-09-28": 174
     }
   }
 ]
