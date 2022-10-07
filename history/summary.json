@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 69,
-    "timeDay": 59,
-    "timeWeek": 105,
-    "timeMonth": 101,
-    "timeYear": 71,
+    "time": 70,
+    "timeDay": 483,
+    "timeWeek": 169,
+    "timeMonth": 115,
+    "timeYear": 73,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1809,
-    "timeDay": 1924,
-    "timeWeek": 1814,
-    "timeMonth": 1726,
-    "timeYear": 1810,
+    "time": 1807,
+    "timeDay": 1293,
+    "timeWeek": 1747,
+    "timeMonth": 1702,
+    "timeYear": 1808,
     "dailyMinutesDown": {}
   },
   {
@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-06": 1190,
+      "2022-10-07": 149,
+      "2022-10-06": 1440,
       "2022-10-05": 1440,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
@@ -415,8 +416,7 @@
       "2021-10-11": 1440,
       "2021-10-10": 1440,
       "2021-10-09": 1440,
-      "2021-10-08": 1440,
-      "2021-10-07": 1440
+      "2021-10-08": 1440
     }
   },
   {
@@ -426,17 +426,16 @@
     "slug": "i-will-systems",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 914,
-    "timeDay": 865,
-    "timeWeek": 841,
-    "timeMonth": 839,
+    "timeDay": 779,
+    "timeWeek": 820,
+    "timeMonth": 829,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2022-10-06": 9,
       "2022-07-01": 56,
       "2022-05-18": 153,
       "2021-11-21": 295
@@ -448,18 +447,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.liveseeyou.com.ico",
     "slug": "live-see-you",
     "status": "down",
-    "uptime": "42.90%",
+    "uptime": "42.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1238,
+    "time": 1239,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-06": 1190,
+      "2022-10-07": 149,
+      "2022-10-06": 1440,
       "2022-10-05": 1440,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
@@ -822,8 +822,7 @@
       "2021-10-11": 1440,
       "2021-10-10": 1440,
       "2021-10-09": 1440,
-      "2021-10-08": 1440,
-      "2021-10-07": 1440
+      "2021-10-08": 1440
     }
   },
   {
@@ -837,11 +836,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1188,
-    "timeDay": 1229,
-    "timeWeek": 1167,
-    "timeMonth": 1139,
-    "timeYear": 1183,
+    "time": 1187,
+    "timeDay": 975,
+    "timeWeek": 1137,
+    "timeMonth": 1135,
+    "timeYear": 1182,
     "dailyMinutesDown": {
       "2021-12-25": 18,
       "2021-12-23": 19
@@ -859,10 +858,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
     "time": 2402,
-    "timeDay": 1256,
-    "timeWeek": 1240,
-    "timeMonth": 1127,
-    "timeYear": 2028,
+    "timeDay": 951,
+    "timeWeek": 1200,
+    "timeMonth": 1114,
+    "timeYear": 2018,
     "dailyMinutesDown": {
       "2022-10-03": 22,
       "2022-07-24": 26,
@@ -884,18 +883,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/iws.iptime.org.ico",
     "slug": "live-stream-k-iws",
     "status": "down",
-    "uptime": "47.13%",
+    "uptime": "47.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "4.16%",
-    "time": 1301,
+    "uptimeYear": "4.09%",
+    "time": 1303,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1308,
+    "timeYear": 1305,
     "dailyMinutesDown": {
-      "2022-10-06": 1190,
+      "2022-10-07": 149,
+      "2022-10-06": 1440,
       "2022-10-05": 1440,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
@@ -1246,8 +1246,7 @@
       "2021-10-23": 1440,
       "2021-10-22": 1115,
       "2021-10-20": 22,
-      "2021-10-08": 106,
-      "2021-10-07": 185
+      "2021-10-08": 106
     }
   }
 ]
