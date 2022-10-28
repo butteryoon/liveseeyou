@@ -22,9 +22,9 @@
     "url": "https://butteryoon.tistory.com",
     "icon": "https://icons.duckduckgo.com/ip3/butteryoon.tistory.com.ico",
     "slug": "butteryoon-tistory",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "97.44%",
+    "uptimeDay": "97.43%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "96.40%",
     "uptimeYear": "99.70%",
@@ -34,6 +34,7 @@
     "timeMonth": 2307,
     "timeYear": 1861,
     "dailyMinutesDown": {
+      "2022-10-28": 0,
       "2022-10-27": 37,
       "2022-10-16": 511,
       "2022-10-15": 1028
@@ -56,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-28": 144,
+      "2022-10-28": 297,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 1440,
@@ -462,7 +463,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-28": 144,
+      "2022-10-28": 297,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 1440,
@@ -888,7 +889,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iws.iptime.org.ico",
     "slug": "live-stream-k-iws",
     "status": "down",
-    "uptime": "45.73%",
+    "uptime": "45.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -899,7 +900,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-28": 145,
+      "2022-10-28": 297,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 1440,
