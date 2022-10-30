@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 71,
-    "timeDay": 104,
-    "timeWeek": 92,
-    "timeMonth": 98,
-    "timeYear": 74,
+    "timeDay": 201,
+    "timeWeek": 108,
+    "timeMonth": 104,
+    "timeYear": 75,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "98.65%",
     "uptimeMonth": "96.17%",
     "uptimeYear": "99.68%",
-    "time": 1864,
-    "timeDay": 3999,
-    "timeWeek": 3754,
-    "timeMonth": 2625,
-    "timeYear": 1912,
+    "time": 1875,
+    "timeDay": 4908,
+    "timeWeek": 4033,
+    "timeMonth": 2754,
+    "timeYear": 1928,
     "dailyMinutesDown": {
       "2022-10-29": 74,
       "2022-10-28": 25,
@@ -58,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-29": 959,
+      "2022-10-30": 149,
+      "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
@@ -421,8 +422,7 @@
       "2021-11-03": 1440,
       "2021-11-02": 1440,
       "2021-11-01": 1440,
-      "2021-10-31": 1440,
-      "2021-10-30": 1440
+      "2021-10-31": 1440
     }
   },
   {
@@ -437,10 +437,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 910,
-    "timeDay": 869,
-    "timeWeek": 861,
-    "timeMonth": 834,
-    "timeYear": 905,
+    "timeDay": 782,
+    "timeWeek": 859,
+    "timeMonth": 831,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2022-07-01": 56,
       "2022-05-18": 153,
@@ -453,7 +453,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.liveseeyou.com.ico",
     "slug": "live-see-you",
     "status": "down",
-    "uptime": "41.53%",
+    "uptime": "41.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -464,7 +464,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-29": 960,
+      "2022-10-30": 149,
+      "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
@@ -827,8 +828,7 @@
       "2021-11-03": 1440,
       "2021-11-02": 1440,
       "2021-11-01": 1440,
-      "2021-10-31": 1440,
-      "2021-10-30": 1440
+      "2021-10-31": 1440
     }
   },
   {
@@ -843,10 +843,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1183,
-    "timeDay": 991,
-    "timeWeek": 1239,
-    "timeMonth": 1153,
-    "timeYear": 1179,
+    "timeDay": 1109,
+    "timeWeek": 1156,
+    "timeMonth": 1151,
+    "timeYear": 1178,
     "dailyMinutesDown": {
       "2021-12-25": 18,
       "2021-12-23": 19
@@ -859,17 +859,16 @@
     "slug": "live-stream-dev",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.94%",
-    "time": 2401,
-    "timeDay": 1071,
+    "time": 2400,
+    "timeDay": 1022,
     "timeWeek": 1074,
-    "timeMonth": 1192,
-    "timeYear": 1795,
+    "timeMonth": 1187,
+    "timeYear": 1785,
     "dailyMinutesDown": {
-      "2022-10-29": 4,
       "2022-10-18": 32,
       "2022-10-03": 22,
       "2022-07-24": 26,
@@ -891,18 +890,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/iws.iptime.org.ico",
     "slug": "live-stream-k-iws",
     "status": "down",
-    "uptime": "45.63%",
+    "uptime": "45.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1250,
+    "time": 1241,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-29": 960,
+      "2022-10-30": 149,
+      "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
@@ -1265,8 +1265,7 @@
       "2021-11-03": 1440,
       "2021-11-02": 1440,
       "2021-11-01": 1440,
-      "2021-10-31": 1440,
-      "2021-10-30": 1440
+      "2021-10-31": 1440
     }
   }
 ]
