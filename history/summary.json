@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 71,
-    "timeDay": 62,
-    "timeWeek": 63,
-    "timeMonth": 82,
+    "timeDay": 65,
+    "timeWeek": 68,
+    "timeMonth": 81,
     "timeYear": 75,
     "dailyMinutesDown": {}
   },
@@ -26,12 +26,12 @@
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.97%",
+    "uptimeMonth": "98.59%",
     "uptimeYear": "99.66%",
     "time": 1918,
-    "timeDay": 1743,
-    "timeWeek": 1699,
-    "timeMonth": 2889,
+    "timeDay": 1869,
+    "timeWeek": 1752,
+    "timeMonth": 2928,
     "timeYear": 1970,
     "dailyMinutesDown": {
       "2022-11-01": 18,
@@ -50,18 +50,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/awsome.duckdns.org.ico",
     "slug": "awsome-oci",
     "status": "down",
-    "uptime": "8.70%",
+    "uptime": "8.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 607,
+    "time": 619,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-15": 117,
+      "2022-11-16": 117,
+      "2022-11-15": 1440,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
@@ -424,8 +425,7 @@
       "2021-11-20": 1440,
       "2021-11-19": 1440,
       "2021-11-18": 1440,
-      "2021-11-17": 1440,
-      "2021-11-16": 1440
+      "2021-11-17": 1440
     }
   },
   {
@@ -440,9 +440,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.90%",
     "time": 908,
-    "timeDay": 896,
-    "timeWeek": 885,
-    "timeMonth": 865,
+    "timeDay": 903,
+    "timeWeek": 877,
+    "timeMonth": 868,
     "timeYear": 902,
     "dailyMinutesDown": {
       "2022-10-30": 35,
@@ -457,18 +457,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.liveseeyou.com.ico",
     "slug": "live-see-you",
     "status": "down",
-    "uptime": "40.60%",
+    "uptime": "40.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1241,
+    "time": 1238,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-15": 117,
+      "2022-11-16": 117,
+      "2022-11-15": 1440,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
@@ -831,8 +832,7 @@
       "2021-11-20": 1440,
       "2021-11-19": 1440,
       "2021-11-18": 1440,
-      "2021-11-17": 1440,
-      "2021-11-16": 1440
+      "2021-11-17": 1440
     }
   },
   {
@@ -846,10 +846,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1182,
-    "timeDay": 1331,
-    "timeWeek": 1161,
-    "timeMonth": 1164,
+    "time": 1181,
+    "timeDay": 1234,
+    "timeWeek": 1151,
+    "timeMonth": 1168,
     "timeYear": 1175,
     "dailyMinutesDown": {
       "2021-12-25": 18,
@@ -868,10 +868,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
     "time": 2397,
-    "timeDay": 1228,
-    "timeWeek": 1186,
-    "timeMonth": 1142,
-    "timeYear": 1621,
+    "timeDay": 1239,
+    "timeWeek": 1189,
+    "timeMonth": 1129,
+    "timeYear": 1612,
     "dailyMinutesDown": {
       "2022-10-18": 32,
       "2022-10-03": 22,
@@ -884,8 +884,7 @@
       "2022-02-13": 15,
       "2021-12-27": 43,
       "2021-12-25": 17,
-      "2021-12-22": 19,
-      "2021-11-16": 17
+      "2021-12-22": 19
     }
   },
   {
@@ -894,18 +893,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/iws.iptime.org.ico",
     "slug": "live-stream-k-iws",
     "status": "down",
-    "uptime": "44.61%",
+    "uptime": "44.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1252,
+    "time": 1253,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-15": 117,
+      "2022-11-16": 117,
+      "2022-11-15": 1440,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
@@ -1268,8 +1268,7 @@
       "2021-11-20": 1440,
       "2021-11-19": 1440,
       "2021-11-18": 1440,
-      "2021-11-17": 1440,
-      "2021-11-16": 1440
+      "2021-11-17": 1440
     }
   }
 ]
