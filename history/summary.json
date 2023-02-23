@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 76,
-    "timeDay": 283,
-    "timeWeek": 134,
-    "timeMonth": 90,
+    "timeDay": 77,
+    "timeWeek": 127,
+    "timeMonth": 89,
     "timeYear": 81,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 1879,
-    "timeDay": 1465,
-    "timeWeek": 1586,
-    "timeMonth": 1606,
+    "timeDay": 1935,
+    "timeWeek": 1678,
+    "timeMonth": 1622,
     "timeYear": 1895,
     "dailyMinutesDown": {
       "2022-11-01": 18,
@@ -50,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/awsome.duckdns.org.ico",
     "slug": "awsome-oci",
     "status": "down",
-    "uptime": "7.36%",
+    "uptime": "7.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -61,7 +61,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-22": 101,
+      "2023-02-23": 99,
+      "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
       "2023-02-19": 1440,
@@ -424,8 +425,7 @@
       "2022-02-27": 1440,
       "2022-02-26": 1440,
       "2022-02-25": 1440,
-      "2022-02-24": 1440,
-      "2022-02-23": 1440
+      "2022-02-24": 1440
     }
   },
   {
@@ -440,9 +440,9 @@
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.91%",
     "time": 890,
-    "timeDay": 852,
-    "timeWeek": 819,
-    "timeMonth": 842,
+    "timeDay": 883,
+    "timeWeek": 840,
+    "timeMonth": 846,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2023-02-19": 18,
@@ -461,7 +461,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.liveseeyou.com.ico",
     "slug": "live-see-you",
     "status": "down",
-    "uptime": "35.77%",
+    "uptime": "35.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -472,7 +472,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-22": 101,
+      "2023-02-23": 99,
+      "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
       "2023-02-19": 1440,
@@ -835,8 +836,7 @@
       "2022-02-27": 1440,
       "2022-02-26": 1440,
       "2022-02-25": 1440,
-      "2022-02-24": 1440,
-      "2022-02-23": 1440
+      "2022-02-24": 1440
     }
   },
   {
@@ -851,9 +851,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.59%",
     "time": 1196,
-    "timeDay": 1152,
-    "timeWeek": 1007,
-    "timeMonth": 1374,
+    "timeDay": 1250,
+    "timeWeek": 1048,
+    "timeMonth": 1383,
     "timeYear": 1191,
     "dailyMinutesDown": {
       "2023-01-20": 201,
@@ -881,18 +881,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devlive.uplus.co.kr.ico",
     "slug": "live-stream-dev",
     "status": "down",
-    "uptime": "94.07%",
+    "uptime": "93.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.52%",
-    "time": 1818,
+    "uptimeYear": "86.25%",
+    "time": 1811,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1164,
+    "timeYear": 1163,
     "dailyMinutesDown": {
-      "2023-02-22": 101,
+      "2023-02-23": 99,
+      "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
       "2023-02-19": 1440,
@@ -958,18 +959,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/iws.iptime.org.ico",
     "slug": "live-stream-k-iws",
     "status": "down",
-    "uptime": "39.29%",
+    "uptime": "39.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1380,
+    "time": 1405,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-22": 101,
+      "2023-02-23": 99,
+      "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
       "2023-02-19": 1440,
@@ -1332,8 +1334,7 @@
       "2022-02-27": 1440,
       "2022-02-26": 1440,
       "2022-02-25": 1440,
-      "2022-02-24": 1440,
-      "2022-02-23": 1440
+      "2022-02-24": 1440
     }
   }
 ]
