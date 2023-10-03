@@ -4,19 +4,19 @@
     "url": "https://butteryoon.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/butteryoon.github.io.ico",
     "slug": "butteryoon-github",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 84,
-    "timeDay": 95,
-    "timeWeek": 84,
-    "timeMonth": 92,
+    "timeDay": 101,
+    "timeWeek": 87,
+    "timeMonth": 93,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2023-10-03": 1
+      "2023-10-03": 19
     }
   },
   {
@@ -71,7 +71,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 125,
+      "2023-10-03": 145,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -448,14 +448,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "69.63%",
+    "uptimeYear": "69.62%",
     "time": 793,
     "timeDay": 553,
     "timeWeek": 625,
     "timeMonth": 683,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2023-10-03": 125,
+      "2023-10-03": 145,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -594,7 +594,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 125,
+      "2023-10-03": 145,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -1014,7 +1014,7 @@
     "timeMonth": 0,
     "timeYear": 1146,
     "dailyMinutesDown": {
-      "2023-10-03": 125,
+      "2023-10-03": 145,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -1307,7 +1307,7 @@
     "timeMonth": 0,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2023-10-03": 125,
+      "2023-10-03": 145,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
