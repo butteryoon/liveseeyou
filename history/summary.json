@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 139,
+    "timeDay": 126,
     "timeWeek": 90,
-    "timeMonth": 85,
+    "timeMonth": 84,
     "timeYear": 84,
     "dailyMinutesDown": {
       "2023-10-03": 19
@@ -29,12 +29,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.27%",
+    "uptimeYear": "98.35%",
     "time": 1866,
-    "timeDay": 1630,
-    "timeWeek": 1684,
-    "timeMonth": 1801,
-    "timeYear": 1898,
+    "timeDay": 1550,
+    "timeWeek": 1685,
+    "timeMonth": 1791,
+    "timeYear": 1903,
     "dailyMinutesDown": {
       "2023-07-24": 130,
       "2023-07-23": 1440,
@@ -69,7 +69,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-16": 74,
+      "2023-10-17": 73,
+      "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
@@ -432,8 +433,7 @@
       "2022-10-21": 1440,
       "2022-10-20": 1440,
       "2022-10-19": 1440,
-      "2022-10-18": 1440,
-      "2022-10-17": 1440
+      "2022-10-18": 1440
     }
   },
   {
@@ -442,18 +442,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iwsys.co.kr.ico",
     "slug": "i-will-systems",
     "status": "down",
-    "uptime": "88.38%",
+    "uptime": "88.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.08%",
-    "time": 788,
-    "timeDay": 646,
-    "timeWeek": 627,
-    "timeMonth": 670,
-    "timeYear": 752,
+    "uptimeYear": "65.80%",
+    "time": 787,
+    "timeDay": 537,
+    "timeWeek": 612,
+    "timeMonth": 667,
+    "timeYear": 751,
     "dailyMinutesDown": {
-      "2023-10-16": 74,
+      "2023-10-17": 73,
+      "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
@@ -594,7 +595,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.liveseeyou.com.ico",
     "slug": "live-see-you",
     "status": "down",
-    "uptime": "27.88%",
+    "uptime": "27.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -605,7 +606,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-16": 74,
+      "2023-10-17": 73,
+      "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
@@ -968,8 +970,7 @@
       "2022-10-21": 1440,
       "2022-10-20": 1440,
       "2022-10-19": 1440,
-      "2022-10-18": 1440,
-      "2022-10-17": 1440
+      "2022-10-18": 1440
     }
   },
   {
@@ -983,11 +984,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.59%",
-    "time": 1179,
-    "timeDay": 964,
-    "timeWeek": 1143,
-    "timeMonth": 1155,
-    "timeYear": 1187,
+    "time": 1178,
+    "timeDay": 938,
+    "timeWeek": 1113,
+    "timeMonth": 1149,
+    "timeYear": 1186,
     "dailyMinutesDown": {
       "2023-01-20": 201,
       "2023-01-19": 1440,
@@ -1014,18 +1015,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devlive.uplus.co.kr.ico",
     "slug": "live-stream-dev",
     "status": "down",
-    "uptime": "73.30%",
+    "uptime": "73.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "21.90%",
-    "time": 1156,
+    "uptimeYear": "21.63%",
+    "time": 1155,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1125,
+    "timeYear": 1124,
     "dailyMinutesDown": {
-      "2023-10-16": 74,
+      "2023-10-17": 73,
+      "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
@@ -1320,7 +1322,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iws.iptime.org.ico",
     "slug": "live-stream-k-iws",
     "status": "down",
-    "uptime": "32.09%",
+    "uptime": "32.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1331,7 +1333,8 @@
     "timeMonth": 0,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2023-10-16": 74,
+      "2023-10-17": 73,
+      "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
@@ -1680,8 +1683,7 @@
       "2022-10-21": 1440,
       "2022-10-20": 1440,
       "2022-10-19": 1440,
-      "2022-10-18": 1440,
-      "2022-10-17": 1440
+      "2022-10-18": 1440
     }
   }
 ]
