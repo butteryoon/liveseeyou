@@ -11,8 +11,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 63,
-    "timeWeek": 75,
+    "timeDay": 125,
+    "timeWeek": 85,
     "timeMonth": 82,
     "timeYear": 84,
     "dailyMinutesDown": {
@@ -29,12 +29,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.35%",
-    "time": 1865,
-    "timeDay": 1822,
-    "timeWeek": 1701,
-    "timeMonth": 1717,
-    "timeYear": 1870,
+    "uptimeYear": "98.36%",
+    "time": 1866,
+    "timeDay": 1422,
+    "timeWeek": 1662,
+    "timeMonth": 1726,
+    "timeYear": 1845,
     "dailyMinutesDown": {
       "2023-07-24": 130,
       "2023-07-23": 1440,
@@ -47,8 +47,7 @@
       "2022-11-01": 18,
       "2022-10-31": 33,
       "2022-10-30": 35,
-      "2022-10-29": 74,
-      "2022-10-28": 25
+      "2022-10-29": 74
     }
   },
   {
@@ -57,7 +56,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/awsome.duckdns.org.ico",
     "slug": "awsome-oci",
     "status": "down",
-    "uptime": "5.31%",
+    "uptime": "5.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -68,7 +67,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-27": 71,
+      "2023-10-28": 70,
+      "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
@@ -431,8 +431,7 @@
       "2022-11-01": 1440,
       "2022-10-31": 1440,
       "2022-10-30": 1440,
-      "2022-10-29": 1440,
-      "2022-10-28": 1440
+      "2022-10-29": 1440
     }
   },
   {
@@ -441,18 +440,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iwsys.co.kr.ico",
     "slug": "i-will-systems",
     "status": "down",
-    "uptime": "87.48%",
+    "uptime": "87.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "63.06%",
-    "time": 783,
-    "timeDay": 634,
-    "timeWeek": 612,
+    "uptimeYear": "62.79%",
+    "time": 782,
+    "timeDay": 537,
+    "timeWeek": 596,
     "timeMonth": 636,
-    "timeYear": 745,
+    "timeYear": 744,
     "dailyMinutesDown": {
-      "2023-10-27": 71,
+      "2023-10-28": 70,
+      "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
@@ -604,7 +604,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.liveseeyou.com.ico",
     "slug": "live-see-you",
     "status": "down",
-    "uptime": "27.59%",
+    "uptime": "27.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -615,7 +615,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-27": 71,
+      "2023-10-28": 70,
+      "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
@@ -978,8 +979,7 @@
       "2022-11-01": 1440,
       "2022-10-31": 1440,
       "2022-10-30": 1440,
-      "2022-10-29": 1440,
-      "2022-10-28": 1440
+      "2022-10-29": 1440
     }
   },
   {
@@ -994,10 +994,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.59%",
     "time": 1182,
-    "timeDay": 1270,
-    "timeWeek": 1210,
+    "timeDay": 977,
+    "timeWeek": 1176,
     "timeMonth": 1183,
-    "timeYear": 1188,
+    "timeYear": 1187,
     "dailyMinutesDown": {
       "2023-01-20": 201,
       "2023-01-19": 1440,
@@ -1024,18 +1024,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devlive.uplus.co.kr.ico",
     "slug": "live-stream-dev",
     "status": "down",
-    "uptime": "72.55%",
+    "uptime": "72.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "18.90%",
-    "time": 1160,
+    "uptimeYear": "18.62%",
+    "time": 1161,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1124,
     "dailyMinutesDown": {
-      "2023-10-27": 71,
+      "2023-10-28": 70,
+      "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
@@ -1340,7 +1341,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iws.iptime.org.ico",
     "slug": "live-stream-k-iws",
     "status": "down",
-    "uptime": "31.76%",
+    "uptime": "31.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1351,7 +1352,8 @@
     "timeMonth": 0,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2023-10-27": 71,
+      "2023-10-28": 70,
+      "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
@@ -1700,8 +1702,7 @@
       "2022-11-01": 1440,
       "2022-10-31": 1440,
       "2022-10-30": 1440,
-      "2022-10-29": 1440,
-      "2022-10-28": 1440
+      "2022-10-29": 1440
     }
   }
 ]
