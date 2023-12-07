@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 205,
-    "timeWeek": 103,
-    "timeMonth": 88,
+    "timeDay": 59,
+    "timeWeek": 94,
+    "timeMonth": 89,
     "timeYear": 84,
     "dailyMinutesDown": {
       "2023-10-03": 19
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.40%",
     "time": 1876,
-    "timeDay": 1436,
-    "timeWeek": 1679,
-    "timeMonth": 1770,
+    "timeDay": 2003,
+    "timeWeek": 1780,
+    "timeMonth": 1783,
     "timeYear": 1739,
     "dailyMinutesDown": {
       "2023-07-24": 130,
@@ -52,7 +52,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/awsome.duckdns.org.ico",
     "slug": "awsome-oci",
     "status": "down",
-    "uptime": "5.08%",
+    "uptime": "5.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -63,7 +63,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-06": 77,
+      "2023-12-07": 76,
+      "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
@@ -426,8 +427,7 @@
       "2022-12-11": 1440,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
-      "2022-12-08": 1440,
-      "2022-12-07": 1440
+      "2022-12-08": 1440
     }
   },
   {
@@ -436,18 +436,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iwsys.co.kr.ico",
     "slug": "i-will-systems",
     "status": "down",
-    "uptime": "84.35%",
+    "uptime": "84.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "52.11%",
+    "uptimeYear": "51.84%",
     "time": 754,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 665,
+    "timeMonth": 675,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2023-12-06": 77,
+      "2023-12-07": 76,
+      "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
@@ -638,7 +639,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.liveseeyou.com.ico",
     "slug": "live-see-you",
     "status": "down",
-    "uptime": "26.61%",
+    "uptime": "26.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -649,7 +650,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-06": 77,
+      "2023-12-07": 76,
+      "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
@@ -1012,8 +1014,7 @@
       "2022-12-11": 1440,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
-      "2022-12-08": 1440,
-      "2022-12-07": 1440
+      "2022-12-08": 1440
     }
   },
   {
@@ -1027,11 +1028,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.59%",
-    "time": 1185,
-    "timeDay": 1010,
-    "timeWeek": 1116,
-    "timeMonth": 1192,
-    "timeYear": 1194,
+    "time": 1186,
+    "timeDay": 1281,
+    "timeWeek": 1159,
+    "timeMonth": 1201,
+    "timeYear": 1195,
     "dailyMinutesDown": {
       "2023-01-20": 201,
       "2023-01-19": 1440,
@@ -1058,18 +1059,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/devlive.uplus.co.kr.ico",
     "slug": "live-stream-dev",
     "status": "down",
-    "uptime": "69.96%",
+    "uptime": "69.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "7.94%",
-    "time": 1178,
+    "uptimeYear": "7.66%",
+    "time": 1177,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1142,
+    "timeYear": 1138,
     "dailyMinutesDown": {
-      "2023-12-06": 77,
+      "2023-12-07": 76,
+      "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
@@ -1414,7 +1416,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iws.iptime.org.ico",
     "slug": "live-stream-k-iws",
     "status": "down",
-    "uptime": "30.63%",
+    "uptime": "30.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1425,7 +1427,8 @@
     "timeMonth": 0,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2023-12-06": 77,
+      "2023-12-07": 77,
+      "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
@@ -1774,8 +1777,7 @@
       "2022-12-11": 1440,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
-      "2022-12-08": 1440,
-      "2022-12-07": 1440
+      "2022-12-08": 1440
     }
   }
 ]
