@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 84,
-    "timeDay": 94,
-    "timeWeek": 44,
+    "timeDay": 39,
+    "timeWeek": 48,
     "timeMonth": 61,
     "timeYear": 82,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.40%",
-    "time": 1853,
-    "timeDay": 1911,
-    "timeWeek": 1795,
-    "timeMonth": 1776,
-    "timeYear": 1759,
+    "time": 1854,
+    "timeDay": 1900,
+    "timeWeek": 1819,
+    "timeMonth": 1775,
+    "timeYear": 1760,
     "dailyMinutesDown": {
       "2023-07-24": 130,
       "2023-07-23": 1440,
@@ -63,7 +63,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-24": 79,
+      "2024-01-25": 79,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -426,8 +427,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   },
   {
@@ -436,18 +436,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iwsys.co.kr.ico",
     "slug": "i-will-systems",
     "status": "down",
-    "uptime": "80.81%",
+    "uptime": "80.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.69%",
+    "uptimeYear": "38.42%",
     "time": 744,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 705,
+    "timeYear": 704,
     "dailyMinutesDown": {
-      "2024-01-24": 79,
+      "2024-01-25": 79,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -676,8 +677,7 @@
       "2023-04-24": 19,
       "2023-02-19": 18,
       "2023-02-05": 116,
-      "2023-02-04": 42,
-      "2023-01-25": 36
+      "2023-02-04": 42
     }
   },
   {
@@ -686,7 +686,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.liveseeyou.com.ico",
     "slug": "live-see-you",
     "status": "down",
-    "uptime": "25.49%",
+    "uptime": "25.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -697,7 +697,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-24": 79,
+      "2024-01-25": 79,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -1060,8 +1061,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   },
   {
@@ -1070,18 +1070,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.uplus.co.kr.ico",
     "slug": "live-stream",
     "status": "down",
-    "uptime": "98.36%",
+    "uptime": "98.28%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "56.65%",
-    "uptimeMonth": "90.02%",
-    "uptimeYear": "99.17%",
+    "uptimeWeek": "42.36%",
+    "uptimeMonth": "86.74%",
+    "uptimeYear": "98.89%",
     "time": 1204,
     "timeDay": 0,
-    "timeWeek": 3864,
-    "timeMonth": 1580,
+    "timeWeek": 2729,
+    "timeMonth": 1587,
     "timeYear": 1213,
     "dailyMinutesDown": {
-      "2024-01-24": 79,
+      "2024-01-25": 79,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1411
@@ -1093,7 +1094,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/devlive.uplus.co.kr.ico",
     "slug": "live-stream-dev",
     "status": "down",
-    "uptime": "67.03%",
+    "uptime": "66.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1104,7 +1105,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-24": 79,
+      "2024-01-25": 79,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -1467,8 +1469,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   },
   {
@@ -1477,7 +1478,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iws.iptime.org.ico",
     "slug": "live-stream-k-iws",
     "status": "down",
-    "uptime": "29.34%",
+    "uptime": "29.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1488,7 +1489,8 @@
     "timeMonth": 0,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2024-01-24": 79,
+      "2024-01-25": 79,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -1837,8 +1839,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   }
 ]
