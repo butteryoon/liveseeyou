@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 83,
-    "timeDay": 0,
-    "timeWeek": 104,
-    "timeMonth": 99,
+    "timeDay": 174,
+    "timeWeek": 111,
+    "timeMonth": 103,
     "timeYear": 85,
     "dailyMinutesDown": {
       "2023-10-03": 19
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1769,
-    "timeDay": 0,
-    "timeWeek": 1521,
-    "timeMonth": 1737,
-    "timeYear": 1746,
+    "timeDay": 1704,
+    "timeWeek": 1536,
+    "timeMonth": 1693,
+    "timeYear": 1744,
     "dailyMinutesDown": {
       "2024-03-22": 16
     }
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-15": 81,
+      "2024-08-16": 85,
+      "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -419,8 +420,7 @@
       "2023-08-21": 1440,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
-      "2023-08-18": 1440,
-      "2023-08-17": 1440
+      "2023-08-18": 1440
     }
   },
   {
@@ -429,7 +429,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iwsys.co.kr.ico",
     "slug": "i-will-systems",
     "status": "down",
-    "uptime": "68.80%",
+    "uptime": "68.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -440,7 +440,8 @@
     "timeMonth": 0,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2024-08-15": 81,
+      "2024-08-16": 85,
+      "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -803,8 +804,7 @@
       "2023-08-21": 1440,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
-      "2023-08-18": 1440,
-      "2023-08-17": 1440
+      "2023-08-18": 1440
     }
   },
   {
@@ -813,7 +813,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.liveseeyou.com.ico",
     "slug": "live-see-you",
     "status": "down",
-    "uptime": "21.70%",
+    "uptime": "21.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -824,7 +824,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-15": 81,
+      "2024-08-16": 85,
+      "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -1187,8 +1188,7 @@
       "2023-08-21": 1440,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
-      "2023-08-18": 1440,
-      "2023-08-17": 1440
+      "2023-08-18": 1440
     }
   },
   {
@@ -1197,18 +1197,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.uplus.co.kr.ico",
     "slug": "live-stream",
     "status": "down",
-    "uptime": "83.74%",
+    "uptime": "83.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.28%",
-    "time": 1208,
+    "uptimeYear": "43.00%",
+    "time": 1207,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1241,
+    "timeYear": 1240,
     "dailyMinutesDown": {
-      "2024-08-15": 81,
+      "2024-08-16": 85,
+      "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -1424,7 +1425,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/devlive.uplus.co.kr.ico",
     "slug": "live-stream-dev",
     "status": "down",
-    "uptime": "57.07%",
+    "uptime": "57.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1435,7 +1436,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-15": 81,
+      "2024-08-16": 85,
+      "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -1798,8 +1800,7 @@
       "2023-08-21": 1440,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
-      "2023-08-18": 1440,
-      "2023-08-17": 1440
+      "2023-08-18": 1440
     }
   },
   {
@@ -1808,7 +1809,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iws.iptime.org.ico",
     "slug": "live-stream-k-iws",
     "status": "down",
-    "uptime": "24.98%",
+    "uptime": "24.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1819,7 +1820,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-15": 81,
+      "2024-08-16": 85,
+      "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -2182,8 +2184,7 @@
       "2023-08-21": 1440,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
-      "2023-08-18": 1440,
-      "2023-08-17": 1440
+      "2023-08-18": 1440
     }
   }
 ]
