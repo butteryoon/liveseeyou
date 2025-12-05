@@ -22,19 +22,19 @@
     "url": "https://butteryoon.tistory.com",
     "icon": "https://icons.duckduckgo.com/ip3/butteryoon.tistory.com.ico",
     "slug": "butteryoon-tistory",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 1817,
-    "timeDay": 2010,
-    "timeWeek": 2122,
-    "timeMonth": 1844,
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 1818,
+    "timeDay": 1903,
+    "timeWeek": 2081,
+    "timeMonth": 1843,
     "timeYear": 1822,
     "dailyMinutesDown": {
-      "2025-12-05": 0,
+      "2025-12-05": 17,
       "2025-09-21": 90,
       "2024-12-09": 40
     }
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-05": 538,
+      "2025-12-05": 554,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -440,7 +440,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-05": 538,
+      "2025-12-05": 554,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -824,7 +824,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-05": 538,
+      "2025-12-05": 554,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -1208,7 +1208,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-05": 538,
+      "2025-12-05": 554,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -1592,7 +1592,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-05": 538,
+      "2025-12-05": 554,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -1976,7 +1976,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-05": 538,
+      "2025-12-05": 554,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
