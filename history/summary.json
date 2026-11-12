@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 131,
-    "timeWeek": 119,
-    "timeMonth": 154,
+    "time": 121,
+    "timeDay": 75,
+    "timeWeek": 108,
+    "timeMonth": 153,
     "timeYear": 123,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1931,
-    "timeDay": 1918,
-    "timeWeek": 2122,
-    "timeMonth": 2027,
-    "timeYear": 1990,
+    "timeDay": 1720,
+    "timeWeek": 2047,
+    "timeMonth": 2029,
+    "timeYear": 1989,
     "dailyMinutesDown": {
       "2025-12-05": 17
     }
@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/awsome.duckdns.org.ico",
     "slug": "awsome-oci",
     "status": "down",
-    "uptime": "2.36%",
+    "uptime": "2.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-11": 339,
+      "2026-11-12": 405,
+      "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
@@ -417,8 +418,7 @@
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
-      "2025-11-13": 1440,
-      "2025-11-12": 1440
+      "2025-11-13": 1440
     }
   }
 ]
