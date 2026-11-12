@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 156,
-    "timeWeek": 130,
+    "timeDay": 154,
+    "timeWeek": 132,
     "timeMonth": 155,
     "timeYear": 124,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1931,
-    "timeDay": 1611,
-    "timeWeek": 1905,
-    "timeMonth": 1989,
-    "timeYear": 1986,
+    "timeDay": 1671,
+    "timeWeek": 1906,
+    "timeMonth": 1987,
+    "timeYear": 1985,
     "dailyMinutesDown": {
       "2025-12-05": 17
     }
@@ -48,11 +48,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 12968,
-    "timeDay": 12968,
-    "timeWeek": 12968,
-    "timeMonth": 12968,
-    "timeYear": 12968,
+    "time": 11967,
+    "timeDay": 11967,
+    "timeWeek": 11967,
+    "timeMonth": 11967,
+    "timeYear": 11967,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "hermes.oc01",
+    "url": "butteryoon.duckdns.org",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "hermes-oc01",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 163,
+    "timeDay": 163,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   }
 ]
