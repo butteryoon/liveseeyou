@@ -8,8 +8,8 @@ sites:
     url: https://butteryoon.github.io
   - name: butteryoon.tistory
     url: https://butteryoon.tistory.com
-  - name: awsome.oci
-    url: https://awsome.duckdns.org:58803
+  - name: awsone.oc02
+    url: https://awsome.duckdns.org:8088
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
