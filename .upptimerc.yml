@@ -10,6 +10,10 @@ sites:
     url: https://butteryoon.tistory.com
   - name: awsome.oc02
     url: https://awsome.duckdns.org:443
+  - name: hermes.oc01
+    check: "tcp-ping"
+    url: butteryoon.duckdns.org
+    port: 22
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
