@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 164,
+    "timeDay": 156,
     "timeWeek": 130,
-    "timeMonth": 156,
+    "timeMonth": 155,
     "timeYear": 124,
     "dailyMinutesDown": {}
   },
@@ -29,32 +29,32 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1931,
-    "timeDay": 1612,
-    "timeWeek": 1938,
-    "timeMonth": 2000,
-    "timeYear": 1987,
+    "timeDay": 1611,
+    "timeWeek": 1905,
+    "timeMonth": 1989,
+    "timeYear": 1986,
     "dailyMinutesDown": {
       "2025-12-05": 17
     }
   },
   {
     "name": "awsome.oc02",
-    "url": "https://awsome.duckdns.org:8088",
+    "url": "https://awsome.duckdns.org:443",
     "icon": "https://icons.duckduckgo.com/ip3/awsome.duckdns.org.ico",
     "slug": "awsome-oc02",
-    "status": "down",
-    "uptime": "40.71%",
-    "uptimeDay": "40.71%",
-    "uptimeWeek": "40.71%",
-    "uptimeMonth": "40.71%",
-    "uptimeYear": "40.71%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "3.81%",
+    "uptimeDay": "3.81%",
+    "uptimeWeek": "3.81%",
+    "uptimeMonth": "3.81%",
+    "uptimeYear": "3.81%",
+    "time": 12968,
+    "timeDay": 12968,
+    "timeWeek": 12968,
+    "timeMonth": 12968,
+    "timeYear": 12968,
     "dailyMinutesDown": {
-      "2026-11-12": 0
+      "2026-11-12": 10
     }
   }
 ]
