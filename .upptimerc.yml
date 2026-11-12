@@ -8,7 +8,7 @@ sites:
     url: https://butteryoon.github.io
   - name: butteryoon.tistory
     url: https://butteryoon.tistory.com
-  - name: awsone.oc02
+  - name: awsome.oc02
     url: https://awsome.duckdns.org:8088
 
 status-website:
