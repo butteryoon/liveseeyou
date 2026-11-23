@@ -22,19 +22,20 @@
     "url": "https://butteryoon.tistory.com",
     "icon": "https://icons.duckduckgo.com/ip3/butteryoon.tistory.com.ico",
     "slug": "butteryoon-tistory",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1930,
+    "time": 1931,
     "timeDay": 1592,
     "timeWeek": 1658,
     "timeMonth": 1863,
     "timeYear": 1981,
     "dailyMinutesDown": {
-      "2025-12-05": 17
+      "2025-12-05": 17,
+      "2026-11-23": 0
     }
   },
   {
